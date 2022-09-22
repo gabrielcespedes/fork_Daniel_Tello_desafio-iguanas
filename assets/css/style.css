@@ -38,12 +38,6 @@ h2{
     vertical-align: middle;
 }
 
-.description-iguana img{
-    display: inline-block;
-    width: 80%;
-    vertical-align: right;
-}
-
 .icons-description{
     background-color: #1E1A13;
     text-align: center;
@@ -107,4 +101,8 @@ footer {
 a {
 	text-decoration: none;
 	color: white;
+}
+
+.iguana_verde {
+    width: 400px;
 }
